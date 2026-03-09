@@ -18,7 +18,7 @@ Currently based in Tucson, AZ, I am actively seeking full-time Software Engineer
 * Tech Stack: Python, C++, OpenCV, Raspberry Pi, Arduino Nano ESP32
 * Summary: Architected a dual-processor control system for an autonomous agricultural robot. Handled high-level spatial processing and obstacle detection via an OAK-D Lite camera, communicating via custom serial protocols to an embedded microcontroller for precise DC motor actuation.
 
-# 2. [Embedded Robotic Vacuum](Link-to-repo-here)
+# 2. [Embedded Robotic Vacuum](https://github.com/tallenmon26/lab-4-372)
 * Tech Stack: Bare-Metal C++, ATmega2560
 * Summary: Developed low-level firmware to manage autonomous navigation logic, implementing hardware timers for accurate PWM-based motor control and integrating HC-SR04 ultrasonic sensors for real-time object avoidance.
 
