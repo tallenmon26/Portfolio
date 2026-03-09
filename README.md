@@ -14,7 +14,7 @@ Currently based in Tucson, AZ, I am actively seeking full-time Software Engineer
 
 # Projects
 
-# 1. [LYCO: TOMI Autonomous Greenhouse Robot](Link-to-repo-here)
+# 1. [LYCO: TOMI Autonomous Greenhouse Robot]([(https://github.com/tallenmon26/Greenhouse-Robot)])
 * Tech Stack: Python, C++, OpenCV, Raspberry Pi, Arduino Nano ESP32
 * Summary: Architected a dual-processor control system for an autonomous agricultural robot. Handled high-level spatial processing and obstacle detection via an OAK-D Lite camera, communicating via custom serial protocols to an embedded microcontroller for precise DC motor actuation.
 
