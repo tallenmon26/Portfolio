@@ -22,7 +22,7 @@ Currently based in Tucson, AZ, I am actively seeking full-time Software Engineer
 * Tech Stack: Bare-Metal C++, ATmega2560
 * Summary: Developed low-level firmware to manage autonomous navigation logic, implementing hardware timers for accurate PWM-based motor control and integrating HC-SR04 ultrasonic sensors for real-time object avoidance.
 
-# 3. [MIPS Processor Design](Link-to-repo-here)
+# 3. [MIPS Processor Design](https://github.com/tallenmon26/ECE369A-Group-4).
 * Tech Stack: Digital Logic, Computer Architecture
 * Summary: Designed and implemented a functional MIPS processor from the ground up, including ALU, register files, and control units, demonstrating a deep understanding of instruction execution and hardware timing.
 
