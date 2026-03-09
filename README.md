@@ -8,7 +8,7 @@ Currently based in Tucson, AZ, I am actively seeking full-time Software Engineer
 
 #  Technical Arsenal
 * Languages: C/C++, Python, Java, 
-* Hardware & Microcontrollers: Arduino (Nano ESP32), Raspberry Pi, ATmega2560, Sabertooth Motor Drivers, MPU-6050 Accelerometer
+* Hardware & Microcontrollers: Arduino (Nano ESP32), Raspberry Pi, ATmega2560, Sabertooth Motor Drivers
 * Software & Tools: OpenCV, DepthAI, PSpice, Git
 * Core Competencies: Real-Time PWM Control, Hardware Timers, Digital Logic/Architecture, Circuit Simulation
 
